@@ -1,0 +1,4 @@
+{"Text":["t","p"],"Paper":["p"],"Document":["d"],"Book":["p","b"]}
+{"Text":["t","p"],"Paper":["p","d"],"Document":["d"],"Book":["p","b"]}
+{"Text":["t","p"],"Paper":["p"],"Document":["d"],"Book":["b"]}
+{"Text":["p","t"],"Paper":["p"],"Document":["b","d"],"Book":["b"]}

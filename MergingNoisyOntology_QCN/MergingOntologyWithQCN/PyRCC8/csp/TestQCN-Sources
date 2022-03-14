@@ -1,0 +1,37 @@
+3 #Text_example 3
+0 1 ( TPPI NTPPI EQ ) 
+0 2 ( DC EC )
+0 3 ( DC EC )
+1 2 ( NTPP TPP NTPPI TPPI PO EQ DC EC )
+1 3 ( DC EC )
+2 3 ( NTPP TPP EQ ) 
+.
+
+
+3 #Text_example 3
+0 1 ( TPPI NTPPI EQ ) 
+0 2 ( NTPP TPP NTPPI TPPI PO EQ DC EC )
+0 3 ( NTPPI TPPI EQ )
+1 2 ( NTPP TPP NTPPI TPPI PO EQ DC EC )
+1 3 ( NTPPI TPPI EQ )
+2 3 ( NTPP TPP EQ ) 
+.
+
+3 #Text_example 2
+0 1 ( TPPI NTPPI EQ ) 
+0 2 ( NTPP TPP EQ )
+0 3 ( NTPP TPP NTPPI TPPI PO EQ DC EC )
+1 2 ( NTPP TPP NTPPI TPPI PO EQ DC EC )
+1 3 ( NTPPI TPPI EQ )
+2 3 ( NTPPI TPPI EQ ) 
+.
+
+
+#3 #Example 1
+#0 1 ( TPPI NTPPI EQ ) 
+#0 2 ( NTPP TPP NTPPI TPPI PO EQ DC EC )
+#0 3 ( DC EC )
+#1 2 ( TPP NTPP EQ )
+#1 3 ( DC EC )
+#2 3 ( DC EC ) 
+#.

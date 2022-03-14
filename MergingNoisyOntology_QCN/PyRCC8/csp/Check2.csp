@@ -1,0 +1,9 @@
+3 #wiki_example
+0 1 ( NTPP TPP ) 
+0 2 ( DC EC )
+0 3 ( DC EC )
+1 2 ( NTPPI TPPI NTPP TPP DC EC EQ PO  )
+1 3 ( NTPPI TPPI EQ )
+2 3 ( NTPPI TPPI ) 
+.
+

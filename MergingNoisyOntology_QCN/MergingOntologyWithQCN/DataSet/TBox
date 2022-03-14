@@ -1,0 +1,5 @@
+["Text","Paper","Book","Document"]
+[["Paper","is-a","Text"],["Text","dj","Document"],["Paper","is-a","Book"],["Paper","dj","Document"],["Book","dj","Document"]]
+[["Paper","is-a","Text"],["Text","is-a","Book"],["Document","is-a","Book"],["Document","is-a","Paper"]]
+[["Paper","is-a","Text"],["Book","is-a","Document"],["Document","is-a","Paper"],["Document","is-a","Text"]]
+[["Document","dj","Paper"],["Paper","is-a","Text"],["Book","is-a","Document"],["Text","dj","Book"],["Text","dj","Document"]]
