@@ -21,8 +21,8 @@ python3 NoisyTree_MergingOntologiesWithQCNs.py
 
 ## Merged Result of Conference Ontology:
 
-![Image 1](ResultHuman.PNG)
+![Image 1](Images/ResultHuman.PNG)
 
 ## Merged Result of Human Ontology:
 
-![Image 2](Ex-PersonConference4.PNG)
+![Image 2](Images/Ex-PersonConference4.PNG)
