@@ -18,11 +18,14 @@ For Method 2 (QCN-Based Merging)
 python3 NoisyTree_MergingOntologiesWithQCNs.py
 
 ```
+## Noisy Ontologies:
+
+![Image 1](images/NoisyOntologyList.PNG)
 
 ## Merged Result of Conference Ontology:
 
-![Image 1](Images/ResultHuman.PNG)
+![Image 2](Images/ResultHuman.PNG)
 
 ## Merged Result of Human Ontology:
 
-![Image 2](Images/Ex-PersonConference4.PNG)
+![Image 3](Images/Ex-PersonConference4.PNG)
