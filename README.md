@@ -20,7 +20,7 @@ python3 NoisyTree_MergingOntologiesWithQCNs.py
 ```
 ## Noisy Ontologies:
 
-![Image 1](images/NoisyOntologyList.PNG)
+![Image 1](Images/NoisyOntologyList.PNG)
 
 ## Merged Result of Conference Ontology:
 
